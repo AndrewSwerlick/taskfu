@@ -1,3 +1,4 @@
-[submodule "support"]
-	path = support
+
+[submodule "support/ace"]
+	path = support/ace
 	url = git://github.com/ajaxorg/ace.git
